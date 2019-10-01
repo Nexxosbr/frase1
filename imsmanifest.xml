@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+<manifest identifier="SingleCourseManifest" version="1.2"
+          xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+          xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                              http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd
+                              http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+	<metadata/>
+	<organizations default="PORTO SEGURO - Fraude em Seguros">
+	   <organization identifier="PORTO SEGURO - Fraude em Seguros">
+	   <title>PORTO SEGURO - Fraude em Seguros</title>
+			<item identifier="MOD_1" isvisible="true">
+				<title>Fraude em Seguros</title>
+				<item identifier="MOD_1_SCO_1" identifierref="RES_1" isvisible="true">
+					<title>A Fraude e Sua Origem Histórica</title>
+				</item>			
+		
+				<item identifier="MOD_1_SCO_2" identifierref="RES_2" isvisible="true">
+					<title>Tipos de Fraudador</title>
+				</item>			
+			
+				<item identifier="MOD_1_SCO_3" identifierref="RES_3" isvisible="true">
+					<title>Qualificação das Fraudes</title>
+				</item>			
+			
+				<item identifier="MOD_1_SCO_4" identifierref="RES_4" isvisible="true">
+					<title>Categoria das Fraudes</title>
+				</item>			
+		
+				<item identifier="MOD_1_SCO_5" identifierref="RES_5" isvisible="true">
+					<title>Fraude no Mercado Segurador</title>
+				</item>			
+		
+				<item identifier="MOD_1_SCO_6" identifierref="RES_6" isvisible="true">
+					<title>Como Combater e Prevenir à Fraude</title>
+				</item>			
+		
+				<item identifier="MOD_1_SCO_7" identifierref="RES_7" isvisible="true">
+					<title>Pequenas Atitudes Fraudulentas</title>
+				</item>			
+			</item>	
+
+			<metadata>
+			  <schema>ADL SCORM</schema>
+			  <schemaversion>1.2</schemaversion>
+			  <location>indefinido.xml</location>
+			</metadata>
+		</organization>
+	</organizations>
+	<resources>
+		<resource identifier="INC" adlcp:scormtype="asset" type="webcontent">
+			<file href="includes/apiwrapper.js"/>
+			<file href="includes/scofunctions.js"/>
+			<file href="includes/loadflash.js"/>
+		</resource>
+		<resource identifier="SWF" adlcp:scormtype="asset" type="webcontent">
+		   <file href="fundo.swf"/>
+		</resource>
+		<resource identifier="RES_1" type="webcontent" adlcp:scormtype="sco" href="apresentacao.htm?modulo=1&amp;topico=1">
+		   <file href="apresentacao.htm"/>
+		   <dependency identifierref="INC"/>
+		   <dependency identifierref="SWF"/>
+		</resource>
+		<resource identifier="RES_2" type="webcontent" adlcp:scormtype="sco" href="fundo.htm?modulo=1&amp;topico=2">
+		   <file href="fundo.htm"/>
+		   <dependency identifierref="INC"/>
+		   <dependency identifierref="SWF"/>
+		</resource>
+		<resource identifier="RES_3" type="webcontent" adlcp:scormtype="sco" href="fundo.htm?modulo=1&amp;topico=3">
+		   <file href="fundo.htm"/>
+		   <dependency identifierref="INC"/>
+		   <dependency identifierref="SWF"/>
+		</resource>
+		<resource identifier="RES_4" type="webcontent" adlcp:scormtype="sco" href="fundo.htm?modulo=1&amp;topico=4">
+		   <file href="fundo.htm"/>
+		   <dependency identifierref="INC"/>
+		   <dependency identifierref="SWF"/>
+		</resource>
+		<resource identifier="RES_5" type="webcontent" adlcp:scormtype="sco" href="fundo.htm?modulo=1&amp;topico=5">
+		   <file href="fundo.htm"/>
+		   <dependency identifierref="INC"/>
+		   <dependency identifierref="SWF"/>
+		</resource>
+		<resource identifier="RES_6" type="webcontent" adlcp:scormtype="sco" href="fundo.htm?modulo=1&amp;topico=6">
+		   <file href="fundo.htm"/>
+		   <dependency identifierref="INC"/>
+		   <dependency identifierref="SWF"/>
+		</resource>
+		<resource identifier="RES_7" type="webcontent" adlcp:scormtype="sco" href="fundo.htm?modulo=1&amp;topico=7">
+		   <file href="fundo.htm"/>
+		   <dependency identifierref="INC"/>
+		   <dependency identifierref="SWF"/>
+		</resource>		
+	</resources>
+</manifest>

@@ -1,0 +1,128 @@
+<curso titulo="PORTO SEGURO - Fraude em Seguros" objetivo="Objetivo do Curso" tempo="1 hora" tempo_animacao="1" menu="sim" corFonte="#000000" tipoFonte="Arial" tamanhoFonte="12" frase_fimtela="Clique no botão para próxima página" frase_fimunidade="Clique no botão Avançar da Barra Superior" corDestaque1="0x000000" corDestaque2="0xFFFFFF" corDestaque3="0x176ECA">
+
+	<!--MODULO 1 -->
+	<modulo titulo="PORTO SEGURO - Fraude em Seguros">
+		<!--TOPICO 1 -->
+		<topico titulo="A Fraude e Sua Origem Histórica" objetivo="" descricao="" tempo="">
+			
+			<!--	TELA	1	-->	<tela titulo="A Fraude e Sua Origem Histórica" top="	1	"/>
+			<!--	TELA	2	-->	<tela titulo="A Fraude e Sua Origem Histórica" top="	2	"/>
+			<!--	TELA	3	-->	<tela titulo="A Fraude e Sua Origem Histórica" top="	3	"/>
+			<!--	TELA	4	-->	<tela titulo="A Fraude e Sua Origem Histórica" top="	4	"/>
+			<!--	TELA	5	-->	<tela titulo="A Fraude e Sua Origem Histórica" top="	5	"/>
+			<!--	TELA	6	-->	<tela titulo="A Fraude e Sua Origem Histórica" top="	6	"/>
+			<!--	TELA	7	-->	<tela titulo="A Fraude e Sua Origem Histórica" top="	7	"/>
+			<!--	TELA	8	-->	<tela titulo="A Fraude e Sua Origem Histórica" top="	8	"/>
+			<!--	TELA	9	-->	<tela titulo="A Fraude e Sua Origem Histórica" top="	9	"/>
+			<!--	TELA	10	-->	<tela titulo="A Fraude e Sua Origem Histórica" top="	10	"/>
+			<!--	TELA	11	-->	<tela titulo="A Fraude e Sua Origem Histórica" top="	11	"/>
+			<!--	TELA	12	-->	<tela titulo="A Fraude e Sua Origem Histórica" top="	12	"/>
+			<!--	TELA	13	-->	<tela titulo="A Fraude e Sua Origem Histórica" top="	13	"/>
+		
+		</topico>
+
+		<!--TOPICO 2 -->
+		<topico titulo="Tipos de Fraudador" objetivo="" descricao="" tempo="">
+			
+			<!--	TELA	1	-->	<tela titulo="Tipos de Fraudador" top="	1	"/>
+			<!--	TELA	2	-->	<tela titulo="Tipos de Fraudador" top="	2	"/>
+			<!--	TELA	3	-->	<tela titulo="Tipos de Fraudador" top="	3	"/>
+			<!--	TELA	4	-->	<tela titulo="Tipos de Fraudador" top="	4	"/>
+			<!--	TELA	5	-->	<tela titulo="Tipos de Fraudador" top="	5	"/>
+			<!--	TELA	6	-->	<tela titulo="Tipos de Fraudador" top="	6	"/>
+			<!--	TELA	7	-->	<tela titulo="Tipos de Fraudador" top="	7	"/>
+			<!--	TELA	8	-->	<tela titulo="Tipos de Fraudador" top="	8	"/>
+			<!--	TELA	9	-->	<tela titulo="Tipos de Fraudador" top="	9	"/>
+			<!--	TELA	10	-->	<tela titulo="Tipos de Fraudador" top="	10	"/>
+			<!--	TELA	11	-->	<tela titulo="Tipos de Fraudador" top="	11	"/>
+			<!--	TELA	12	-->	<tela titulo="Tipos de Fraudador" top="	12	"/>
+			<!--	TELA	13	-->	<tela titulo="Tipos de Fraudador" top="	13	"/>
+
+		
+		</topico>
+	
+		<!--TOPICO 3 -->
+		<topico titulo="Qualificação das Fraudes" objetivo="" descricao="" tempo="">
+			
+			<!--	TELA	1	-->	<tela titulo="Qualificação das Fraudes" top="	1	"/>
+			<!--	TELA	2	-->	<tela titulo="Qualificação das Fraudes" top="	2	"/>
+			<!--	TELA	3	-->	<tela titulo="Qualificação das Fraudes" top="	3	"/>
+			<!--	TELA	4	-->	<tela titulo="Qualificação das Fraudes" top="	4	"/>
+			<!--	TELA	5	-->	<tela titulo="Qualificação das Fraudes" top="	5	"/>
+			<!--	TELA	6	-->	<tela titulo="Qualificação das Fraudes" top="	6	"/>
+			<!--	TELA	7	-->	<tela titulo="Qualificação das Fraudes" top="	7	"/>
+			<!--	TELA	8	-->	<tela titulo="Qualificação das Fraudes" top="	8	"/>
+			<!--	TELA	9	-->	<tela titulo="Qualificação das Fraudes" top="	9	"/>
+			<!--	TELA	10	-->	<tela titulo="Qualificação das Fraudes" top="	10	"/>
+			<!--	TELA	11	-->	<tela titulo="Qualificação das Fraudes" top="	11	"/>
+		
+		</topico>
+
+		<!--TOPICO 4 -->
+		<topico titulo="Categoria das Fraudes" objetivo="" descricao="" tempo="">
+			
+			<!--	TELA	1	-->	<tela titulo="Categoria das Fraudes" top="	1	"/>
+			<!--	TELA	2	-->	<tela titulo="Categoria das Fraudes" top="	2	"/>
+			<!--	TELA	3	-->	<tela titulo="Categoria das Fraudes" top="	3	"/>
+			<!--	TELA	4	-->	<tela titulo="Categoria das Fraudes" top="	4	"/>
+			<!--	TELA	5	-->	<tela titulo="Categoria das Fraudes" top="	5	"/>
+			<!--	TELA	6	-->	<tela titulo="Categoria das Fraudes" top="	6	"/>
+
+		
+		</topico>
+
+		<!--TOPICO 5 -->
+		<topico titulo="Fraude no Mercado Segurador" objetivo="" descricao="" tempo="">
+			
+			<!--	TELA	1	-->	<tela titulo="Fraude no Mercado Segurador" top="	1	"/>
+			<!--	TELA	2	-->	<tela titulo="Fraude no Mercado Segurador" top="	2	"/>
+			<!--	TELA	3	-->	<tela titulo="Fraude no Mercado Segurador" top="	3	"/>
+			<!--	TELA	4	-->	<tela titulo="Fraude no Mercado Segurador" top="	4	"/>
+			<!--	TELA	5	-->	<tela titulo="Fraude no Mercado Segurador" top="	5	"/>
+			<!--	TELA	6	-->	<tela titulo="Fraude no Mercado Segurador" top="	6	"/>
+			<!--	TELA	7	-->	<tela titulo="Fraude no Mercado Segurador" top="	7	"/>
+			<!--	TELA	8	-->	<tela titulo="Fraude no Mercado Segurador" top="	8	"/>
+			<!--	TELA	9	-->	<tela titulo="Fraude no Mercado Segurador" top="	9	"/>
+			<!--	TELA	10	-->	<tela titulo="Fraude no Mercado Segurador" top="	10	"/>
+			<!--	TELA	11	-->	<tela titulo="Fraude no Mercado Segurador" top="	11	"/>
+			<!--	TELA	12	-->	<tela titulo="Fraude no Mercado Segurador" top="	12	"/>
+			<!--	TELA	13	-->	<tela titulo="Fraude no Mercado Segurador" top="	13	"/>
+			<!--	TELA	14	-->	<tela titulo="Fraude no Mercado Segurador" top="	14	"/>
+			<!--	TELA	15	-->	<tela titulo="Fraude no Mercado Segurador" top="	15	"/>
+		
+		</topico>
+	
+		<!--TOPICO 6 -->
+		<topico titulo="Como Combater e Prevenir à Fraude" objetivo="" descricao="" tempo="">
+			
+			<!--	TELA	1	-->	<tela titulo="Como Combater e Prevenir à Fraude" top="	1	"/>
+			<!--	TELA	2	-->	<tela titulo="Como Combater e Prevenir à Fraude" top="	2	"/>
+			<!--	TELA	3	-->	<tela titulo="Como Combater e Prevenir à Fraude" top="	3	"/>
+			<!--	TELA	4	-->	<tela titulo="Como Combater e Prevenir à Fraude" top="	4	"/>
+			<!--	TELA	5	-->	<tela titulo="Como Combater e Prevenir à Fraude" top="	5	"/>
+			<!--	TELA	6	-->	<tela titulo="Como Combater e Prevenir à Fraude" top="	6	"/>
+			<!--	TELA	7	-->	<tela titulo="Como Combater e Prevenir à Fraude" top="	7	"/>
+			<!--	TELA	8	-->	<tela titulo="Como Combater e Prevenir à Fraude" top="	8	"/>
+			<!--	TELA	9	-->	<tela titulo="Como Combater e Prevenir à Fraude" top="	9	"/>
+			<!--	TELA	10	-->	<tela titulo="Como Combater e Prevenir à Fraude" top="	10	"/>
+			<!--	TELA	11	-->	<tela titulo="Como Combater e Prevenir à Fraude" top="	11	"/>
+			<!--	TELA	12	-->	<tela titulo="Como Combater e Prevenir à Fraude" top="	12	"/>
+			<!--	TELA	13	-->	<tela titulo="Como Combater e Prevenir à Fraude" top="	13	"/>
+			<!--	TELA	14	-->	<tela titulo="Como Combater e Prevenir à Fraude" top="	14	"/>
+			<!--	TELA	15	-->	<tela titulo="Como Combater e Prevenir à Fraude" top="	15	"/>
+				
+		</topico>
+	
+		<!--TOPICO 7 -->
+		<topico titulo="Pequenas Atitudes Fraudulentas" objetivo="" descricao="" tempo="">
+			
+			<!--	TELA	1	-->	<tela titulo="Pequenas Atitudes Fraudulentas" top="	1	"/>
+			<!--	TELA	2	-->	<tela titulo="Pequenas Atitudes Fraudulentas" top="	2	"/>
+			<!--	TELA	3	-->	<tela titulo="Pequenas Atitudes Fraudulentas" top="	3	"/>
+			<!--	TELA	4	-->	<tela titulo="Pequenas Atitudes Fraudulentas" top="	4	"/>
+			<!--	TELA	5	-->	<tela titulo="Pequenas Atitudes Fraudulentas" top="	5	"/>
+		
+		</topico>
+	</modulo>
+
+</curso>

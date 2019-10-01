@@ -1,0 +1,43 @@
+/*
+Desenvolvido por Darlesson
+*/
+
+/* Configuraes Gerais */
+body, td, div, span, font, input, select, textarea, a {font-family:Tahoma, Verdana, Arial, Helvetica, sans-serif, "BitStream Vera Sans"; font-size:11px;}
+body {margin:0px 0px 0px 0px; overflow:hidden; overflow-x:hidden; height:100%; max-height:100%;}
+html {overflow:hidden; overflow-x:hidden; height:100%; max-height:100%;}
+img {border:none; margin:0px 0px 0px 0px;}
+form{margin:0px 0px 0px 0px;}
+div, body, iframe, textarea, select {scrollbar-3dlight-color:#C6C6C6; scrollbar-arrow-color:#BBBBBB; scrollbar-base-color:#FFFFFF; scrollbar-darkshadow-color:#FFFFFF; scrollbar-face-color:#F6F6F6; scrollbar-highlight-color:#FFFFFF; scrollbar-shadow-color:#C6C6C6;	scrollbar-track-color:#FFFFFF;}
+a{color:#006699; text-decoration:none;}
+a:hover{color:#FF6600!important; text-decoration:none;}
+#corpo {width:100%; max-width:100%; height:100%; max-height:100%; position:relative;}
+#topo {width:100%; max-width:100%;}
+#cabecalho {width:100%; max-width:100%;}
+#conteudo {width:100%; max-width:100%;}
+#rodape {position:absolute; bottom:0px; width:100%; padding:4px 6px 4px 6px; background-color:#F7F7F7; border-top:1px solid #666666;}
+#menusuperior {border-top:2px solid #374255; border-bottom:2px solid #FF6600; height:27px; padding-bottom:1px; padding-top:1px; background-color:#FFFFFF; background-image:url(../imagens/ms_fundo.jpg); background-repeat:repeat-x; background-position:left 1px;}
+#localizacaoPad {padding:11px 0px 0px 0px; width:100%;}
+#localizacao {border-bottom:1px solid #B0B0B0; height:18px; vertical-align:top;}
+#ifrConteudo {margin:8px 5px 8px 5px; width:100%; overflow:auto; overflow-x:hidden;}
+.hand{cursor:hand!important; cursor:pointer!important;}
+
+.ms_item {color:#000000; font-weight:bold; padding:11px 8px 0px 8px; height:16px; float:left;}
+.ms_span_item {filter:DropShadow(Color=#E1E1E2, OffX=1, OffY=1, Positive=1); cursor:default;}
+.ms_desabilitado {color:#999999; cursor:default;}
+.ms_separador {width:2px; height:100%; float:left; background-image:url(../imagens/ms_separador.jpg); background-repeat:no-repeat;}
+
+.ms_item_popup {position:absolute; display:none; width:164px; min-width:180px; border:1px solid #374255; background-color:#FFFFFF; padding:1px 1px 1px 1px; cursor:hand; cursor:pointer;}    
+.itemMenu {padding:6px 7px 6px 7px; border-bottom:1px solid #D7DCE5; color:#353F51; width:100%; max-width:100%;}
+.itemMenuHover {background-color:#FFD988; color:#000000;}
+.itemSubMenu {padding:6px 7px 6px 7px; border-bottom:1px solid #D7DCE5; color:#353F51; width:100%; background-image:url(../imagens/ms_seta_subMenu_normal.gif); background-repeat:no-repeat; background-position:168px center;}
+.itemSubMenuHover {background-color:#ECF2F4; background-image:url(../imagens/ms_seta_subMenu_hover.gif); cursor:default;}
+.ms_seta_cor {background-color:#374255; width:164px; min-width:164px; height:14px; padding:0px 8px 0px 8px; display:none; cursor:default; position:relative;}
+.ms_seta_subir {background-image:url(../imagens/ms_seta_subir.gif); background-repeat:no-repeat; background-position:center;}
+.ms_seta_descer {background-image:url(../imagens/ms_seta_descer.gif); background-repeat:no-repeat; background-position:center;}
+.ms_scroll {border:1px solid #D7DCE5; border-bottom:none; width:178px; min-width:178px; height:100%; background-color:#FDFDFD; overflow:hidden;}
+.ifrFundo{border:none; overflow:hidden; position:absolute; z-index:0; display:none;}
+
+.fonte-cor-b {color:#FF6600; font-weight:bold;}
+a.localizacao{color:#000000;}
+/* Fim das Configuraes Gerais */
